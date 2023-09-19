@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  background-image:url(images/burger1.webp);
+}
+#navv{
+  color: rgb(4, 90, 4);
+}
+#nav{
+  color: rgb(37, 128, 37);
+}
+.cont{
+  margin: 0;
+  padding: 0;
+}
